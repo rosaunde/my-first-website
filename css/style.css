@@ -1,0 +1,12 @@
+h1{
+  color:rgb(0,255,0);
+  background:red;
+  
+  /* font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 40px;
+  font-weight: bolder; */
+
+  /* Same as abo ve */
+  font: bolder 40px Verdana, Geneva, tahoma, sans-serif;
+
+}
